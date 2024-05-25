@@ -7,8 +7,18 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>
-        وفقنا الله و اياكم في هذا المشروع
-    </h1>
+  
+
+        <div style="background-color: royalblue;">
+            <h1 style="color: withe;">to push</h1>
+          <ul >
+            <li style="color: red;">git add .</li>
+            <li style="color: red;">git commit -m "message"</li>
+            <li style="color: red;"> git push origin main</li>
+           
+          </ul>
+        </div>
+   
+
 </body>
 </html>
