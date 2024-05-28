@@ -57,7 +57,7 @@
                         </div>
                         <a href="#">Forgot Password?</a>
                     </div>
-                    <button type="submit" class="btn btn-primary">Sign in</button>
+                    <button type="submit" class="btn btn-primary">Log in</button>
                 </form>
             </div>
         </div>
